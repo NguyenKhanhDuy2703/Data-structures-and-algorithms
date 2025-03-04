@@ -1,4 +1,4 @@
-349. Intersection of Two Arrays
+# 349. Intersection of Two Arrays
        method 1 :
            - Sort nums1 and nums2.
            - Create a HashSet to store unique elements.
